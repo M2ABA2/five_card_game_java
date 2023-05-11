@@ -1,3 +1,5 @@
+package com.five_card_game;
+
 /*
  * Separtes the 52 cards into 4 types that each contain 13 cards.
  * 

@@ -1,3 +1,5 @@
+package com.five_card_game;
+
 import java.util.Objects;
 
 public enum Suit {

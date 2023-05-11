@@ -1,3 +1,5 @@
+package com.five_card_game;
+
 import org.javapoker.evaluator.HandRank;
 import org.javapoker.evaluator.HandEvaluator;
 

@@ -1,3 +1,5 @@
+package com.five_card_game;
+
 /*
  * Defines and returns the card number and its suit.
  */
