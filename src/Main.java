@@ -17,14 +17,14 @@ public class Main {
 
 
         //Return the rank.
-        Ranking rank = new Ranking();
+       /*  Ranking rank = new Ranking();
         try{
            String r = rank.rankHand(hand);
              // Print the hand rank
         System.out.println("Hand Rank: " + r);
         }catch(Exception ex){
            System.out.println("Could not get hand");
-        }
+        }*/
         
 
       

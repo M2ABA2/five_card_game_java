@@ -14,7 +14,7 @@ public class Ranking {
             // Get the rank of the hand
             String handRankString = handRank.toString();
 
-            // Print the hand rank
+            // Print the hand rankgi
         // System.out.println("Hand Rank: " + handRankString);
             return handRankString;
 
