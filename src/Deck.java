@@ -4,6 +4,7 @@
  */
 import java.util.Arrays;
 import java.util.Random;
+import com.five_card_game.Card;
 
 public class Deck {
     private static final int NUM_SUITS = 4;
