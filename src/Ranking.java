@@ -1,5 +1,6 @@
-import poker.HandRank;
-import poker.HandEvaluator;
+import org.javapoker.evaluator.HandRank;
+import org.javapoker.evaluator.HandEvaluator;
+
 
 
 public class Ranking {

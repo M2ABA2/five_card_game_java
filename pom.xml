@@ -9,8 +9,8 @@
 </project>
 
 <dependency>
-    <groupId>org.javapoker</groupId>
-    <artifactId>poker-evaluator</artifactId>
-    <version>1.0.0</version>
+    <groupId>org.dsaw</groupId>
+    <artifactId>poker-engine</artifactId>
+    <version>1.0-SNAPSHOT</version>
 </dependency>
 
